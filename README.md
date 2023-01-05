@@ -49,9 +49,9 @@
 
 ### Setup
 
-1. Clone this project on your local machine using the following command on your Git Bash: `git clone https://github.com/ouasamine/[project]`
+1. Clone this project on your local machine using the following command on your Git Bash: `git clone https://github.com/ouasamine/TDD-project`
 
-2. Browse to project directory `cd [project]`
+2. Browse to project directory `cd TDD-project`
 
 3. Run `bundle install` to install the dependencies
 
@@ -60,7 +60,7 @@
 
 In the project directory, you can run:
 
-- `ruby [file].rb`
+- `ruby solver.rb`
 
   Runs the app on your bash
 
