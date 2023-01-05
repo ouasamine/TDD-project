@@ -1,3 +1,4 @@
+require_relative '../solver.rb'
 
 describe Solver do 
   context "Testing Solver methods" do
