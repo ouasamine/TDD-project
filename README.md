@@ -1,3 +1,4 @@
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#[project])
@@ -18,7 +19,7 @@
 # TDD Project
 
 
-**TDD Project** is a Test Driven Project
+**TDD Project** is a Test Driven Development practice project
 
 ## Built With
 
@@ -53,13 +54,13 @@
 
 In the project directory, you can run:
 
-- `ruby solver.rb`
+- `bundle exec rspec`
 
-  Runs the app on your bash
+  To run Rspec automated tests.
 
 - `rubocop`
 
-  Launches the test runner.
+  To launch linters.
 
 ## Authors
 
@@ -67,7 +68,7 @@ In the project directory, you can run:
 
 - GitHub: [@ouasamine](https://github.com/ouasamine)
 - Twitter: [@ouass_amine](https://twitter.com/ouass_amine)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amine-ouassef-314686214/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amine-ouassef/)
 
 👤 **Zuhaib Amjad**
 
@@ -99,3 +100,4 @@ Feel free to check the [issues page](../../issues/).
 ## License 
 
 This project is [MIT](./LICENSE) licensed.
+
