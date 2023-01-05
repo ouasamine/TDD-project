@@ -19,7 +19,7 @@
 # TDD Project
 
 
-**TDD Project** is a Test Driven Project
+**TDD Project** is a Test Driven Development practice project
 
 ## Built With
 
@@ -43,9 +43,9 @@
 
 ### Setup
 
-1. Clone this project on your local machine using the following command on your Git Bash: `git clone https://github.com/ouasamine/[project]`
+1. Clone this project on your local machine using the following command on your Git Bash: `git clone https://github.com/ouasamine/TDD-project`
 
-2. Browse to project directory `cd [project]`
+2. Browse to project directory `cd TDD-project`
 
 3. Run `bundle install` to install the dependencies
 
@@ -54,13 +54,13 @@
 
 In the project directory, you can run:
 
-- `ruby [file].rb`
+- `bundle exec rspec`
 
-  Runs the app on your bash
+  To run Rspec automated tests.
 
 - `rubocop`
 
-  Launches the test runner.
+  To launch linters.
 
 ## Authors
 
@@ -68,7 +68,7 @@ In the project directory, you can run:
 
 - GitHub: [@ouasamine](https://github.com/ouasamine)
 - Twitter: [@ouass_amine](https://twitter.com/ouass_amine)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amine-ouassef-314686214/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amine-ouassef/)
 
 👤 **Zuhaib Amjad**
 

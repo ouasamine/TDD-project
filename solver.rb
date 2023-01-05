@@ -1,6 +1,7 @@
 class Solver
   def factorial(num)
-    return 1 if num == 1
+    return 1 if [1, 0].include?(num)
+    return raise 'No negative numbers are accepted' if num.negative?
 
     num * factorial(num - 1)
   end
@@ -21,5 +22,3 @@ class Solver
     end
   end
 end
-
-puts Solver.new.fizzbuzz(3)
