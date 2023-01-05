@@ -32,5 +32,11 @@ describe Solver do
       result = 'fizzbuzz'
       expect(solver.fizzbuzz(arg)).to eql result
     end
+
+    it 'Should return the number as string if not divisible 3 and 5, 3 or 5' do
+      arg = 7
+      result = '7'
+      expect(solver.fizzbuzz(arg)).to eql result
+    end
   end
 end
